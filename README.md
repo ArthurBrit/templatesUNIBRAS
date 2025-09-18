@@ -18,7 +18,7 @@
 
 ### 👥 Alunos
 
-* [Integrante 1](https://www.linkedin.com/in/.../)
+* [ARTHUR BRITO DE CERQUEIRA SILVA](https://www.linkedin.com/in/.../)
 * [Integrante 2](https://www.linkedin.com/in/.../)
 * [Integrante 3](https://www.linkedin.com/in/.../)
 * [Integrante 4](https://www.linkedin.com/in/.../)
