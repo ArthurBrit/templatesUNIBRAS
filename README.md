@@ -1,4 +1,4 @@
-# UNIBRAS - Modelo de Documento para Projetos, Pesquisas e Disciplinas Específicas
+# Arquitetura e Organização de Computadores
 
 <p align="center">
   <a href="https://sejaunibras.com.br"><img src="assets/unibras-logo.png" alt="UNIBRAS - União Brasileira de Desenvolvimento Social" border="0" width="70%" /></a>
@@ -69,6 +69,7 @@ Ex.: Anomalia, Classificação, Machine Learning, Eficiência Computacional.
 
 ### ⚡️ Anexos e Links
 
+* [Certificado Cisco (PDF)](document/certificado-cisco.pdf)
 * Scripts, dataset e demais arquivos de suporte (`src/` e `documents/other/`).
 * Link para vídeo de demonstração no YouTube (se aplicável).
 
