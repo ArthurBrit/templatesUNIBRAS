@@ -16,30 +16,15 @@
 
 ## 👥 Equipe de Autores e Participantes
 
-### 👥 Alunos
+### 👥 Aluno
 
-* [ARTHUR BRITO DE CERQUEIRA SILVA](https://www.linkedin.com/in/.../)
-* [Integrante 2](https://www.linkedin.com/in/.../)
-* [Integrante 3](https://www.linkedin.com/in/.../)
-* [Integrante 4](https://www.linkedin.com/in/.../)
-* [Integrante 5](https://www.linkedin.com/in/.../)
+* [ARTHUR BRITO DE CERQUEIRA SILVA]
+
 
 ### 👔 Docentes e Orientação
 
 * **Orientador(a):** [FRANCISMAR ALVES MARTINS JUNIOR](https://www.linkedin.com/in/francismar-alves-martins-junior-8a320b90/)
-* **Coordenador(a):** [Nome do Coordenador(a)](#)
 
----
-
-## 🔬 1️⃣ Modelo para Pesquisa e Relatórios Científicos
-
-### 📝 Resumo
-
-> Texto conciso (150–250 palavras) apresentando o contexto, motivação, método utilizado e conclusões.
-
-### 🎯 Palavras‑chave
-
-Ex.: Anomalia, Classificação, Machine Learning, Eficiência Computacional.
 
 ### 🕹️ Introdução
 
@@ -47,49 +32,12 @@ Ex.: Anomalia, Classificação, Machine Learning, Eficiência Computacional.
 * Problema identificado.
 * Objetivos e escopo.
 
-### ⚡️ Metodologia
-
-* Descrição dos métodos e técnicas aplicadas.
-* Linguagem e Frameworks usados (Ex.: Python, Scikit‑Learn).
-* Etapas do experimento e critérios de avaliação.
-
-### 📊 Resultados e Discussões
-
-* Apresentação dos dados obtidos (tabelas, gráficos).
-* Análises e comparações com trabalhos correlatos.
-
-### 🏁 Conclusões e Trabalhos Futuros
-
-* Resultado final e impacto esperado.
-* Limitações do estudo atual e caminhos para futuras pesquisas.
-
-### 📚 Referências Bibliográficas
-
-> Listagem de artigos, livros e demais fontes citadas (ABNT, APA ou outro padrão requerido).
 
 ### ⚡️ Anexos e Links
 
 * [Certificado Cisco (PDF)](document/certificado-cisco.pdf)
 * Scripts, dataset e demais arquivos de suporte (`src/` e `documents/other/`).
 * Link para vídeo de demonstração no YouTube (se aplicável).
-
----
-
-## 💻 2️⃣ Modelo para Disciplinas Específicas (Ex.: Engenharia de Software, IA, Banco de Dados)
-
-### 📄 Identificação
-
-* Disciplina: Ex.: Engenharia de Software, IA, Banco de Dados
-* Professor(a): [Nome do Professor(a)](#)
-
-### 🎯 Tema e Contextualização
-
-> Breve apresentação do tema abordado e importância para a área de estudo.
-
-### 🗺️ Especificações do Projeto
-
-* **Requisitos Funcionais e Não Funcionais**
-* **Regras de Negócio** ou escopo técnico específico para a área.
 
 ### ⚡️ Arquitetura e Stack Utilizado
 
