@@ -35,7 +35,7 @@
 
 ### ⚡️ Anexos e Links
 
-* [Certificado Cisco (PDF)](document/certificado-cisco.pdf)
+* [Certificado Cisco (PDF)](document/certificado-cisco.png)
 * Scripts, dataset e demais arquivos de suporte (`src/` e `documents/other/`).
 * Link para vídeo de demonstração no YouTube (se aplicável).
 
