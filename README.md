@@ -19,8 +19,9 @@
 
 ---
 ### ⚡️ Anexos e Links
- <img src="assents/visaulcodigo.png">
- (documents/visualcodigo.pdf)
+ <img src="assets/visualcodigo.png">
+📄 PDF de referência: [visualcodigo](document/conversor_bases_resumido.pdf)
+
 ------
 
 ### ⚡️ Arquitetura e Stack Utilizado
