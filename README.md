@@ -20,7 +20,7 @@
 ---
 ### ⚡️ Anexos e Links
  <img src="assets/visualcodigo.png">
-📄 PDF de referência: [visualcodigo](document/conversor_bases_resumido.pdf)
+
 
 ------
 
