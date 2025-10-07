@@ -19,7 +19,7 @@
 
 ---
 ### ⚡️ Anexos e Links
- <img src="assents/">
+ <img src="assents/visaulcodigo.png">
 * Scripts, dataset e demais arquivos de suporte (`src/` e `documents/other/`).
 * Link para vídeo de demonstração no YouTube (se aplicável).
 ------
