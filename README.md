@@ -20,7 +20,7 @@
 ---
 ### ⚡️ Anexos e Links
  <img src="assents/visaulcodigo.png">
- <documents/visualcodigo.pdf>
+ (documents/visualcodigo.pdf)
 ------
 
 ### ⚡️ Arquitetura e Stack Utilizado
